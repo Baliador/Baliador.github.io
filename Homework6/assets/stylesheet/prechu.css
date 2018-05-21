@@ -1,0 +1,201 @@
+@font-face {
+    src: url(../../fonts/8143.otf);
+    font-family:"Myriad Pro";
+}
+body {
+    font-family:"Myriad Pro";
+}
+.container {
+    min-width: 1024px;
+    margin: 0 auto;
+}
+.round {
+    width: 44px;
+    height: 44px;
+    background-color: #5094f2;
+    border-radius: 50%;
+    background-image: url(../../images/kovi4ki.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-right: 13px;
+    vertical-align: top;
+    
+}
+.p1 {
+    display: inline-block;
+    font-size: 42px;
+    vertical-align: top;   
+}
+.nav__block {
+    display: inline-block;
+}
+.nav__text {
+    color: #6c6c6c;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 14px;
+    text-decoration: none;
+    padding-bottom: 32px;
+}
+.nav__text:hover {
+    height: 40px;
+    border-bottom: 5px solid #5094f2;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.logo{
+    float: left;
+    display: inline-block;
+    margin: 24px 0 21px 141px;   
+}
+.nav {
+    float: right;
+    display: inline-block;
+    margin: 37px 162px 36px 0;
+}
+
+.top {
+    background-image: url(../../images/background.png);
+}
+.iphone__picture {
+    width: 345px;
+    height: 436px;
+}
+.iphonebox {
+    display: inline-block;
+    padding: 38px 0 16px 177px;
+}
+.text__top {
+    display: inline-block;
+    font-size: 26px;
+    line-height: 44.42px;
+    color: #ffffff;
+    margin: 153px 90px 0 80px;
+    vertical-align: top;  
+}
+.lorem {
+    font-size: 42px;
+}
+.button__box {
+    display: inline-block;
+    background-color: #5094f2;
+    border: none;
+    width: 172px;
+    height: 41px;
+    margin-top: 42px;
+    margin-left: 10px;    
+}
+.button__text {
+    font-size: 22px;
+    color: #ffffff;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 38px;
+    
+}
+.ok {
+    height: 23px;
+    width: 23px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 1px;
+}
+.box1,.box2,.box3 {
+    display: inline-block;
+    vertical-align: top;
+    margin:5% 3% 0 5%;
+}
+.main {
+    text-align: center;
+}
+.picture {
+    width: 186px;
+    height: 186px;
+    background-color: #5094f2;
+    border-radius: 50%;
+    background-image: url(../../images/pencil.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.picture2 {
+    width: 186px;
+    height: 186px;
+    background-color:#d94748;
+    border-radius: 50%;
+    background-image: url(../../images/computer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.picture3 {
+    width: 186px;
+    height: 186px;
+    background-color:#ebbb11;
+    border-radius: 50%;
+    background-image: url(../../images/box.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+
+}
+.h,.h2,.h3,.p,.p2,.p3 {
+    text-align: center;
+}
+.h,.h2,.h3 {
+    color: #5094f2;
+    font-size: 20px;
+    line-height: 44.42px;
+}
+.p,.p2,.p3 {
+    color: #909090;
+    font-size: 14px;
+}
+.part1,.part2 {
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.part1 {
+    margin: 94px 0 144px 139px;
+}
+.part2 {
+    margin: 149px 167px 50px 92px;
+}
+.shopping {
+    color: #6f7173;
+    font-size: 42px;
+    line-height: 44.42px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.text1 {
+    color: #6f7173;
+    font-size: 26px;
+    line-height: 44.42px;
+}
+.text2 {
+    color: #909090;
+    font-size: 15px;
+    line-height: 36px;
+}
+.lasttext {
+    color: #909090;
+    font-size: 15px;
+    line-height: 76px;
+    text-align: center;
+}
+.footer {
+    height: 82px;
+    width: 1250px;
+}
+.main2 {
+    border-bottom: 1px solid #dddddd;
+}
